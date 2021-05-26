@@ -10,7 +10,7 @@ class Human {
 
 class Person extends Human {
   
-  name = 'Andrew';
+  name = 'Roger';
   gender = 'male';
   
   printMyName = () => {
