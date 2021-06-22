@@ -7,7 +7,6 @@ class Human {
   }
 }
 
-
 class Person extends Human {
   
   name = 'Roger';
