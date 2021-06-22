@@ -32,3 +32,12 @@ console.log(newNumbers);
 obj = {Foo:'Bar'};
 obj1 = {...obj, Baz:'Test'};
 console.log(obj1); // [object Object] {  Baz: "Test",  Foo: "Bar"}
+
+
+const myFunction = () => {
+  return 'ES6';
+}
+
+
+
+
