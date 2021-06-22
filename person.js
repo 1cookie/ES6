@@ -27,3 +27,8 @@ person.printGender();
 const numbers = [1,2,3];
 const newNumbers = [...numbers, 4,5];
 console.log(newNumbers);
+
+
+obj = {Foo:'Bar'};
+obj1 = {...obj, Baz:'Test'};
+console.log(obj1); // [object Object] {  Baz: "Test",  Foo: "Bar"}
